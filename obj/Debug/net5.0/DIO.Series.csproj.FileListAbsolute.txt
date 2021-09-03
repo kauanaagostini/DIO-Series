@@ -1,0 +1,16 @@
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\kauana.m.agostini\Documents\Avanade-treinamento\DigitalInnovationOne\Projeto-DIO-Series\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
